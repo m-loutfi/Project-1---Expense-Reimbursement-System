@@ -1,0 +1,33 @@
+body  {
+    background-image: url("./bckgrdImg.jpg");
+  }
+
+h1{
+    color: navy;
+    margin-top: 1cm;
+    padding: 2cm;
+    border-style: solid;
+    border: white;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: navy;
+}
+
+
+#loginform{
+    
+    padding: 0.5cm;
+    width: 30%;
+    text-align: left;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: rgba(255,255,255, 0.5);
+    border-color: goldenrod;
+}
+
+#loginButton{
+    width: 4cm;
+}

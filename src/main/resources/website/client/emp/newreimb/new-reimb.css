@@ -1,0 +1,30 @@
+body  {
+    background-image: url("/DashBckgd.jpg");
+  }
+
+
+#titletag{
+  padding: 1cm;
+    color: whitesmoke;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: rgb(26, 26, 26);
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+#subForm{
+    text-align: center;
+    padding: 1cm;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-radius: 30px;
+    background-color: rgb(26, 26, 26);
+    margin: auto;
+    width: 40%;
+}
+
+#submitReimb{
+  text-align: left;
+  color: whitesmoke;
+}

@@ -1,0 +1,45 @@
+
+body  {
+    background-image: url("/DashBckgd.jpg");
+  }
+
+  #titleblock{
+      align-content: center;
+  }
+
+  #Nametag{
+      padding: 1cm;
+      color: whitesmoke;
+      border-style: solid;
+      border-radius: 25px;
+      background-color: rgb(26, 26, 26);
+      margin: auto;
+      text-align: center;
+      width: 50%;
+  }
+
+#reimbList{
+    margin: 0.75cm;
+    padding-right: 1cm;
+    padding-left: 1cm;
+    padding: 15px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: steelblue;
+    background-color: whitesmoke;
+}
+
+#btnelement{
+    text-align: center;
+}
+
+#logoutButton{
+    align-self: center;
+    width: 25%;
+}
+
+#searchtool{
+    padding: 1cm;
+    text-align: right;
+}
+

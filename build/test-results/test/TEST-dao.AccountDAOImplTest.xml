@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dao.AccountDAOImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-04-02T15:46:49" hostname="LAPTOP-KOP31BSH" time="0.635">
+  <properties/>
+  <testcase name="insertAccount()" classname="dao.AccountDAOImplTest" time="0.367"/>
+  <testcase name="pullAccountName()" classname="dao.AccountDAOImplTest" time="0.101"/>
+  <testcase name="pullAccountType()" classname="dao.AccountDAOImplTest" time="0.08"/>
+  <testcase name="pullAccountByUsername()" classname="dao.AccountDAOImplTest" time="0.084"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
