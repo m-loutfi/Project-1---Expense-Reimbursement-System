@@ -9,9 +9,9 @@ import java.util.List;
 
 public class ReimbursementDAOImpl implements ReimbursementDAO {
 
-    public static String url = "jdbc:postgresql://dataking.cdghozvheaha.us-east-2.rds.amazonaws.com/Project 1";
-    public static String username = "dataking";
-    public static String password = "p4ssw0rd";
+    public static String url = "jdbc:postgresql://"+System.getenv("TRAINING_DB_ENDPOINT")+"/"+System.getenv("TRAINING_DB_NAME");
+    public static String username = System.getenv("TRAINING_DB_USERNAME");
+    public static String password = System.getenv("TRAINING_DB_PASSWORD");
 
 
 //    public static String url = "jdbc:h2:C:\\Users\\micha\\Desktop\\p1Testing";

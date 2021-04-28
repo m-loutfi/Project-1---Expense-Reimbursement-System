@@ -18,4 +18,20 @@ List of features ready and TODOs for future development
 * Approve or Deny Reimbursements
   To-do list:
 * Sorting Reimbursements
+## Getting Started
+Step 1:
+* Create an RDS instance with AWS.
+* Hold onto the database credentials and URL.
+
+Step 2:
+* Make sure you have Java 8 installed.
+* Setup your system environment variables with names as shown in img1 in the images folder
+* Open the project folder in a Java IDE
+
+Step 3:
+* Open a database IDE like "DBeaver".
+* Execute the SQL script in the image folder within your database connection.
+* Use the test user credentials made in the script to login at
+"http://localhost:1108"
+
 
